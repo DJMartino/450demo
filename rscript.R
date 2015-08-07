@@ -1,3 +1,6 @@
 ##NEw r script for demo
 
-my first code 
+
+
+data(mtcars)
+head(mtcars)
